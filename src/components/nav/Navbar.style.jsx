@@ -11,7 +11,7 @@ export const Logo = styled(Link)`
   padding: 1rem 0;
   color: ${({ theme }) => theme.colors.logoColor};
   text-decoration: none;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 2rem;
   span {
     font-weight: 400;
